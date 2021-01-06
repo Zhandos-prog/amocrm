@@ -1,0 +1,18 @@
+{
+  "name": "sutem/amocrm.loc",
+  "description": "AppIntegration",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Zhandos",
+      "email": "sutemgenov.zhandos@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
